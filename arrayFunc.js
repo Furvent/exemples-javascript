@@ -8,4 +8,4 @@ const additionArrowFunc = (a, b) => a + b;
 //   return a + b;
 // } 
 
-additionArrowFunc(8, 4)
+// additionArrowFunc(8, 4)

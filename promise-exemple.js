@@ -10,4 +10,4 @@ function callPromise() {
   myPromise.then((answer) => console.log("The answer is: " + answer));
 }
 
-callPromise();
+// callPromise();
